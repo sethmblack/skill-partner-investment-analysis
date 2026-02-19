@@ -4,7 +4,8 @@ description: Evaluate employee benefit investments through the lens of brand str
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4642
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - partner-investment-analysis
 - transformation
